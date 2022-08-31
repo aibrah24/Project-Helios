@@ -1,4 +1,4 @@
-# Project Helios
+# Team Oncology
 
 Skin cancer is a problem with widespread impacts across the United States with approximately 9500 people diagnosed daily. More than 2 people die from this disease every hour, and the early detection of skin problems could be crucial in preventing the cancer from becoming fatal.
 
